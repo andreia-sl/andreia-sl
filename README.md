@@ -12,7 +12,7 @@
 
 ## 🧰 Languages and Tools:
 - 👀  I am interested in having new overviews and building new amazing projects.
-- <1> I have solid knowledge of building algorithms in image processing and ML algorithms using Matlab/C/C++.
+- <1> I have solid knowledge of building algorithms in image processing and ML algorithms using Matlab/C/C++/Python.
 - <2> Have basic frontend knowledge. 
 - <3> Learning .Net/c# and kotlin.
 - 💞️  I’m open to collaborate on interesting new projects!
