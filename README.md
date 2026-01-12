@@ -12,10 +12,9 @@
 
 ## 🧰 Languages and Tools:
 - I am interested in having new overviews and building new interesting projects
-- <1> I have knowledge of building algorithms in image processing and ML algorithms using Matlab/C/C++ and average knowledge in Python.
-- <2> Have basic frontend knowledge. 
-- <3> I am constantly learning and am always keen to further my knowledge (now mostly in Python, ML and AutoML).
-- 💞️  I’m open to collaborate on interesting new projects!
+- <1> I have knowledge of building algorithms in data/image processing and ML algorithms using Python (or Matlab).
+- <2> I am constantly learning and am always keen to further my knowledge (now mostly in MLOps and Cloud). 
+- <3> I'm open to collaborate on interesting new projects!
 
 <br />
 <br />
