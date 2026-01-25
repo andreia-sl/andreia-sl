@@ -5,7 +5,7 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/andr%C3%A9ia-seixas-leal-6bb02a73/" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://github.com/andreia-sl" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a> &nbsp; &nbsp; &nbsp; &nbsp;
- <a href="andreialeal.site"> <img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>  &nbsp; &nbsp; &nbsp; &nbsp;
+ <a href="andreialeal.site"> <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>  &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="sleal.andreia@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
