@@ -80,7 +80,7 @@
 <img align="left" alt="Workspace Spec" src="https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 
 
-[![Andréia's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreia-sl)](https://github.com/andreia-sl)
+[![Andréia's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreia-sl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
