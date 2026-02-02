@@ -79,6 +79,10 @@
 
 <img align="left" alt="Workspace Spec" src="https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 
+
+[![Andréia's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreia_sl)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 andreia-sl/andreia-sl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
