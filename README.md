@@ -43,6 +43,7 @@
 ### Database
 <img align="left" alt="SQL" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="left" alt="Databricks" src="https://img.shields.io/badge/Databricks-181825?style=for-the-badge&logo=databricks" />
 
 <br />
 <br />
