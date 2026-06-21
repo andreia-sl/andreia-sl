@@ -1,4 +1,4 @@
-# Hello, I’m Andréia S. L. (@andreia-sl) 👋  
+# Hello, I’m Andréia (@andreia-sl) 👋  
 
   ## ✉️ Find me on:
 
